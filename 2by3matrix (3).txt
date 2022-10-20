@@ -1,0 +1,113 @@
+IF character == 'A'
+Ch1 = 1, ch2 = 0, ch3= 0, ch4 =0, ch5 = 0, ch6 = 0 
+IF character == 'B'
+Ch1 = 1, ch2 = 0, ch3= 1, ch4 =0, ch5 = 0, ch6 = 0 
+IF character == 'C'
+Ch1 = 1, ch2 = 1, ch3= 0, ch4 =0, ch5 = 0, ch6 = 0 
+IF character == 'D'
+Ch1 = 1, ch2 = 1, ch3= 0, ch4 =1, ch5 = 0, ch6 = 0 
+IF character == 'E'
+Ch1 = 1, ch2 = 0, ch3= 0, ch4 =1, ch5 = 0, ch6 = 0 
+IF character == 'F'
+Ch1 = 1, ch2 = 1, ch3= 1, ch4 =0, ch5 = 0, ch6 = 0 
+IF character == 'G'
+Ch1 = 1, ch2 = 1, ch3= 1, ch4 =1, ch5 = 0, ch6 = 0 
+IF character == 'H'
+Ch1 = 1, ch2 = 0, ch3= 1, ch4 =1, ch5 = 0, ch6 = 0 
+IF character == 'I'
+Ch1 = 0, ch2 = 1, ch3= 1, ch4 =0, ch5 = 0, ch6 = 0 
+IF character == 'J'
+Ch1 = 0, ch2 = 1, ch3= 1, ch4 =1, ch5 = 0, ch6 = 0 
+IF character == 'K'
+Ch1 = 1, ch2 = 0, ch3= 0, ch4 =0, ch5 = 1, ch6 = 0 
+IF character == 'L'
+Ch1 = 1, ch2 = 0, ch3= 1, ch4 =0, ch5 = 1, ch6 = 0 
+IF character == 'M'
+Ch1 = 1, ch2 = 1, ch3= 0, ch4 =0, ch5 = 1, ch6 = 0 
+IF character == 'N'
+Ch1 = 1, ch2 = 1, ch3= 0, ch4 =1, ch5 = 1, ch6 = 0 
+IF character == 'O'
+Ch1 = 1, ch2 = 0, ch3= 0, ch4 =1, ch5 = 1, ch6 = 0 
+IF character == 'P'
+Ch1 = 1, ch2 = 1, ch3= 1, ch4 =0, ch5 = 1, ch6 = 0 
+IF character == 'Q'
+Ch1 = 1, ch2 = 1, ch3= 1, ch4 =1, ch5 = 1, ch6 = 0 
+IF character == 'R'
+Ch1 = 1, ch2 = 0, ch3= 1, ch4 =1, ch5 = 1, ch6 = 0 
+IF character == 'S'
+Ch1 = 0, ch2 = 1, ch3= 1, ch4 =0, ch5 = 1, ch6 = 0 
+IF character == 'T'
+Ch1 = 0, ch2 = 1, ch3= 1, ch4 =1, ch5 = 1, ch6 = 0 
+IF character == 'U'
+Ch1 = 1, ch2 = 0, ch3= 0, ch4 =0, ch5 = 1, ch6 = 1 
+IF character == 'V'
+Ch1 = 1, ch2 = 0, ch3= 1, ch4 =0, ch5 = 1, ch6 = 1 
+IF character == 'W'
+Ch1 = 0, ch2 = 1, ch3= 1, ch4 =1, ch5 = 0, ch6 = 1 
+IF character == 'X'
+Ch1 = 1, ch2 = 1, ch3= 0, ch4 =0, ch5 = 1, ch6 = 1 
+IF character == 'Y'
+Ch1 = 1, ch2 = 1, ch3= 0, ch4 =1, ch5 = 1, ch6 = 1 
+IF character == 'Z'
+Ch1 = 1, ch2 = 0, ch3= 0, ch4 =1, ch5 = 1, ch6 = 1 
+IF character == '1'
+Ch1 = 1, ch2 = 0, ch3= 0, ch4 =0, ch5 = 0, ch6 = 0 
+IF character == '2'
+Ch1 = 1, ch2 = 0, ch3= 1, ch4 =0, ch5 = 0, ch6 = 0 
+IF character == '3'
+Ch1 = 1, ch2 = 1, ch3= 0, ch4 =0, ch5 = 0, ch6 = 0 
+IF character == '4'
+Ch1 = 1, ch2 = 1, ch3= 0, ch4 =1, ch5 = 0, ch6 = 0 
+IF character == '5'
+Ch1 = 1, ch2 = 0, ch3= 0, ch4 =1, ch5 = 0, ch6 = 0 
+IF character == '6'
+Ch1 = 1, ch2 = 1, ch3= 1, ch4 =0, ch5 = 0, ch6 = 0 
+IF character == '7'
+Ch1 = 1, ch2 = 1, ch3= 1, ch4 =1, ch5 = 0, ch6 = 0 
+IF character == '8'
+Ch1 = 1, ch2 = 0, ch3= 1, ch4 =1, ch5 = 0, ch6 = 0 
+IF character == '9'
+Ch1 = 0, ch2 = 1, ch3= 1, ch4 =0, ch5 = 0, ch6 = 0 
+IF character == '0'
+Ch1 = 0, ch2 = 1, ch3= 1, ch4 =1, ch5 = 0, ch6 = 0 
+IF character == '.'
+Ch1 = 0, ch2 = 0, ch3= 1, ch4 =1, ch5 = 0, ch6 = 1 
+IF character == ','
+Ch1 = 0, ch2 = 0, ch3= 1, ch4 =0, ch5 = 0, ch6 = 0 
+IF character == ';'
+Ch1 = 0, ch2 = 0, ch3= 1, ch4 =0, ch5 = 1, ch6 = 0 
+IF character == ':'
+Ch1 = 0, ch2 = 0, ch3= 1, ch4 =1, ch5 = 0, ch6 = 0 
+IF character == '/'
+Ch1 = 0, ch2 = 1, ch3= 0, ch4 =0, ch5 = 1, ch6 = 0 
+IF character == '?'
+Ch1 = 0, ch2 = 0, ch3= 1, ch4 =0, ch5 = 1, ch6 = 1
+IF character == '!'
+Ch1 = 0, ch2 = 0, ch3= 1, ch4 =1, ch5 = 1, ch6 = 0 
+IF character == '@'
+Ch1 = 0, ch2 = 1, ch3= 0, ch4 =1, ch5 = 1, ch6 = 0 
+IF character == '#'
+Ch1 = 0, ch2 = 1, ch3= 0, ch4 =1, ch5 = 1, ch6 = 1 
+IF character == '+'
+Ch1 = 0, ch2 = 0, ch3= 1, ch4 =1, ch5 = 1, ch6 = 0 
+IF character == '-'
+Ch1 = 0, ch2 = 0, ch3= 1, ch4 =1, ch5 = 0, ch6 = 0 
+IF character == '*'
+Ch1 = 0, ch2 = 0, ch3= 0, ch4 =1, ch5 = 1, ch6 = 0 
+IF character == '"'
+Ch1 = 0, ch2 = 0, ch3= 0, ch4 =1, ch5 = 1, ch6 = 1 
+IF character == '''
+Ch1 = 0, ch2 = 0, ch3= 0, ch4 =0, ch5 = 1, ch6 = 0 
+IF character == '<'
+Ch1 = 1, ch2 = 0, ch3= 1, ch4 =0, ch5 = 0, ch6 = 1 
+IF character == '>'
+Ch1 = 0, ch2 = 1, ch3= 0, ch4 =1, ch5 = 1, ch6 = 0 
+IF character == '('
+Ch1 = 0, ch2 = 0, ch3= 1, ch4 =1, ch5 = 1, ch6 = 1 
+IF character == ')'
+Ch1 = 0, ch2 = 0, ch3= 1, ch4 =1, ch5 = 1, ch6 = 1 
+IF character == '_'
+Ch1 = 1, ch2 = 0, ch3= 0, ch4 =0, ch5 = 1, ch6 = 1 
+IF character == 'and'
+Ch1 = 1, ch2 = 1, ch3= 1, ch4 =0, ch5 = 1, ch6 = 1
+Serial.write (ch1, ch2, ch3, ch4, ch5, ch6, f, pw)
